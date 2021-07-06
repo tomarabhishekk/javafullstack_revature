@@ -1,0 +1,28 @@
+package stringBuffer_stringBuilder;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StringBuffer sb=new StringBuffer("Hello");
+		System.out.println(sb);
+		System.out.println(System.identityHashCode(sb));
+		sb.append(" heyy").append(1123123).append(1345566.6);
+		System.out.println(sb);
+		System.out.println(System.identityHashCode(sb));
+		sb.insert(1	, "Java");
+		System.out.println(sb);
+		System.out.println(sb.reverse());
+		sb.delete(1, 4);
+		System.out.println(sb);
+		sb.deleteCharAt(0);
+		System.out.println(sb);
+	
+	
+	
+	
+	
+	
+	}
+
+}

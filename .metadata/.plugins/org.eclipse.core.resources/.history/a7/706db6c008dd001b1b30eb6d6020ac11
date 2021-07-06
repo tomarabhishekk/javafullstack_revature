@@ -1,0 +1,16 @@
+package eg1;
+
+public class Palindromeeg {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String s="madam";
+		System.out.println(isPalindrome(s));
+		}
+public static boolean isPalindrome(String s) {
+	StringBuffer sb=new StringBuffer(s);
+	sb.reverse();
+	String temp=sb.toString();
+	return s.equals(temp);
+}
+}

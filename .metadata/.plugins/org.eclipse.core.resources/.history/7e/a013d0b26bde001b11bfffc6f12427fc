@@ -1,0 +1,22 @@
+package eg1;
+
+public class VerOne {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int x=10;
+		System.out.println("x = "+x);
+		
+		
+		long m=123456789011L;
+		System.out.println("m = "+m);
+		
+		float f=12.4f;
+		System.out.println("f = "+f);
+		
+		
+		
+	}
+
+}
