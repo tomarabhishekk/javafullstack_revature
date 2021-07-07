@@ -2995,3 +2995,87 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 21:05:18.982
 !MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 23:28:12.682
+!MESSAGE Preparing classpath changed notification Decisionmaking
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 23:28:12.684
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 23:28:12.812
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 23:28:12.813
+!MESSAGE buffering callback sts4.classpath.NywQIQyI Decisionmaking false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 23:28:12.814
+!MESSAGE executing callback sts4.classpath.NywQIQyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-06 23:28:12.840
+!MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:20.421
+!MESSAGE Preparing classpath changed notification Decisionmaking
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:20.424
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:20.424
+!MESSAGE buffering callback sts4.classpath.NywQIQyI Decisionmaking true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:20.425
+!MESSAGE executing callback sts4.classpath.NywQIQyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:20.451
+!MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:47.136
+!MESSAGE Preparing classpath changed notification task
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:47.136
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:47.138
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:47.140
+!MESSAGE buffering callback sts4.classpath.NywQIQyI task false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:47.140
+!MESSAGE executing callback sts4.classpath.NywQIQyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:38:47.144
+!MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:09.665
+!MESSAGE Preparing classpath changed notification task
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:09.666
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:09.666
+!MESSAGE buffering callback sts4.classpath.NywQIQyI task true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:09.667
+!MESSAGE executing callback sts4.classpath.NywQIQyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:09.671
+!MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.464
+!MESSAGE Preparing classpath changed notification task1_controlstatements
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.465
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.467
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.469
+!MESSAGE buffering callback sts4.classpath.NywQIQyI task1_controlstatements false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.470
+!MESSAGE executing callback sts4.classpath.NywQIQyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.476
+!MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
