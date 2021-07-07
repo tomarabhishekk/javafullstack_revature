@@ -3079,3 +3079,21 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 08:39:25.476
 !MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 09:01:36.305
+!MESSAGE Preparing classpath changed notification task_week1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 09:01:36.305
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 09:01:36.308
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 09:01:36.309
+!MESSAGE buffering callback sts4.classpath.NywQIQyI task_week1 false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 09:01:36.310
+!MESSAGE executing callback sts4.classpath.NywQIQyI 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-07 09:01:36.318
+!MESSAGE executing callback sts4.classpath.NywQIQyI SUCCESS [done]
